@@ -3,6 +3,9 @@ Este proyecto consiste en el diseño de una base de datos SQL que gestiona la in
 
 
 DER corregido en base a las sugerencias en clase y las ultimas por mail.
+DDL , DML Y QUERIES incorporados al proyecto en java 
+test conection realizado
+entidades y repositorios
 
  
 
